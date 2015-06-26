@@ -82,7 +82,6 @@ mailHello: 'Hello,'
 mailAutomaticalMessage: 'This is an automatically generated message from the'
 mailPleaseConfirm: 'Please confirm your email address by clicking on the link below:'
 mailOtherwise: "Otherwise, if it wasn't you who submitted this email address for contact, please ignore this email."
-mailThanks: 'Thanks!'
 emailConfirmationAt: 'Email confirmation at'
 restorePasswordAt: 'Restore password at'
 resetPassRestoreMessage: 'reset your password by clicking on the link below:'
