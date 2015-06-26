@@ -11,8 +11,6 @@ inactiveUser: null
 EditorialComments: null
 download: null
 home: null
-Login: null
-Register: null
 search: null
 keywords: null
 community: null
@@ -59,10 +57,12 @@ email: null
 password: null
 myprofile: null
 sorryNoFound: null
+Login: null
 loginFailed: null
 somethingWrong: null
 tryAgain: null
 forgotPassword: null
+Register: null
 resetPassword: null
 emailNotCorrect: null
 maybeYouRegistered: null
