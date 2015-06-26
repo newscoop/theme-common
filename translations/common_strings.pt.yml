@@ -11,8 +11,6 @@ inactiveUser: 'Usuário Inativo'
 EditorialComments: ‘Artigos’
 download: 'Download:'
 home: Home
-Login: Login
-Register: Registrar
 search: Buscar
 keywords: tags
 community: Comunidade
@@ -59,10 +57,12 @@ email: E-mail
 password: Senha
 myprofile: 'Meu perfil'
 sorryNoFound: 'Desculpe, a página solicitada não foi encontrada.'
+Login: Login
 loginFailed: 'Login falhou'
 somethingWrong: 'Ou o seu e-mail ou senha está errada.'
 tryAgain: 'Tente novamente por favor!'
 forgotPassword: 'Esqueceu sua senha?'
+Register: Registrar
 resetPassword: 'Redefinir senha'
 emailNotCorrect: 'E-mail não é correto'
 maybeYouRegistered: 'Talvez você registrou em'

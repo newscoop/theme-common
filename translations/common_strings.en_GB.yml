@@ -1,102 +1,102 @@
-publishedOn: null
-in: null
-viewAllPosts: null
-by: null
-and: null
-commentS: null
-previous: null
-next: null
-photo: null
-inactiveUser: null
-EditorialComments: null
-download: null
-home: null
-Login: null
-Register: null
-search: null
-keywords: null
-community: null
-Language: null
-archives: null
-mostRead: null
-mostCommented: null
-responsesTo: null
-commentNotAccepted: null
-commentSentApproval: null
-leaveReply: null
-submit: null
-comment: null
-enterCode: null
-commentsLockedDisabled: null
-notLoggedInMessage: null
-nameRequired: null
-emailRequired: null
-relatedArticles: null
-attachments: null
-infoOnLockedArticles: null
-writtenBy: null
-articleRating: null
-year: null
-years: null
-month: null
-months: null
-day: null
-days: null
-hours: null
-minutes: null
-seconds: null
-ago: null
-editProfile: null
-Website: null
-LatestComments: null
-organisation: null
-viewProfile: null
-welcome: null
-logout: null
-login: null
-dashboard: null
-email: null
-password: null
-myprofile: null
-sorryNoFound: null
-loginFailed: null
-somethingWrong: null
-tryAgain: null
-forgotPassword: null
-resetPassword: null
-emailNotCorrect: null
-maybeYouRegistered: null
-withAnotherEmail: null
-requestNewPassword: null
-userAccount: null
-weSentEmail: null
-pleaseCheckInbox: null
-setNewPassword: null
-newPassword: null
-retypePassword: null
-couldNotChange: null
-enterNewPassword: null
-doesNotMatch: null
-savePassword: null
-mailHello: null
-mailAutomaticalMessage: null
-mailPleaseConfirm: null
-mailOtherwise: null
-mailThanks: null
-emailConfirmationAt: null
-restorePasswordAt: null
-resetPassRestoreMessage: null
-thanks: null
-registerYourself: null
-confirmationSent: null
-followEmailSteps: null
-thanksForRegistering: null
-registerConfirm: null
-pleaseFill: null
-register: null
-hello: null
-fillYourData: null
-communityFeed: null
-registered: null
-newCommentOn: null
-noSearchResults: null
+publishedOn: 'Published on'
+in: in
+viewAllPosts: 'View all posts filed under'
+by: By
+and: and
+commentS: comment(s)
+previous: Previous
+next: Next
+photo: 'photo:'
+inactiveUser: 'Inactive User'
+EditorialComments: 'Editorial Comments'
+download: 'Download:'
+home: Home
+search: Search
+keywords: keywords
+community: Community
+Language: Language
+archives: Archives
+mostRead: 'Most read'
+mostCommented: 'Most commented'
+responsesTo: 'Response(s) to'
+commentNotAccepted: 'Your comment has not been accepted.'
+commentSentApproval: 'Your comment has been sent for approval.'
+leaveReply: 'Leave a reply'
+submit: submit
+comment: Comment
+enterCode: 'Enter the code:'
+commentsLockedDisabled: 'Comments are locked / disabled for this article.'
+notLoggedInMessage: 'You have to be registered in order to comment on articles and send messages directly to the editorial team. Please log in or create a free user account.'
+nameRequired: 'Name (required)'
+emailRequired: 'Email (will not be published) (required)'
+relatedArticles: 'Related articles'
+attachments: Attachments
+infoOnLockedArticles: 'This article is locked and is accessible only to <mark>registered</mark> and <mark>logged in</mark> users, sorry!'
+writtenBy: 'Written By:'
+articleRating: 'Article rating:'
+year: year
+years: years
+month: month
+months: months
+day: day
+days: days
+hours: hr
+minutes: min
+seconds: sec
+ago: ago
+editProfile: 'Edit profile'
+Website: Website
+LatestComments: 'Latest Comments'
+organisation: Organisation
+viewProfile: 'View Profile'
+welcome: 'Welcome,'
+logout: 'Log out'
+login: 'Log in'
+dashboard: Dashboard
+email: Email
+password: Password
+myprofile: 'My Profile'
+sorryNoFound: 'Sorry, the requested page was not found.'
+Login: Login
+loginFailed: 'Login failed'
+somethingWrong: 'Either your email or password is wrong.'
+tryAgain: 'Try again please!'
+forgotPassword: 'Forgot your password?'
+Register: Register
+resetPassword: 'Reset Password'
+emailNotCorrect: 'Email is not correct'
+maybeYouRegistered: 'Maybe you registered on'
+withAnotherEmail: 'with another email account?'
+requestNewPassword: 'Request new password'
+userAccount: 'User account'
+weSentEmail: 'We''ve sent you an email.'
+pleaseCheckInbox: 'Please check your inbox and click on the link in the email to reset your password.'
+setNewPassword: 'Set new Password'
+newPassword: 'New Password'
+retypePassword: 'Re-type Password'
+couldNotChange: 'Your password could not be changed. Please follow the instructions and try again.'
+enterNewPassword: 'Please enter your new password (minimum 6 characters)'
+doesNotMatch: 'The confirmation of your password does not match your password.'
+savePassword: 'Save password'
+mailHello: 'Hello,'
+mailAutomaticalMessage: 'This is an automatically generated message from the'
+mailPleaseConfirm: 'Please confirm your email address by clicking on the link below:'
+mailOtherwise: 'Otherwise, if it wasn''t you who submitted this email address for contact, please ignore this email.'
+mailThanks: Thanks!
+emailConfirmationAt: 'Email confirmation at'
+restorePasswordAt: 'Restore password at'
+resetPassRestoreMessage: 'reset your password by clicking on the link below:'
+thanks: Thanks!
+registerYourself: 'Register yourself'
+confirmationSent: 'Confirmation has been sent.'
+followEmailSteps: 'Follow the steps you will find in your email.'
+thanksForRegistering: 'Thanks for registering.'
+registerConfirm: 'Registration confirm'
+pleaseFill: 'Please fill your data'
+register: Register
+hello: 'Hello,'
+fillYourData: 'You''re here for the first time. Please fill in your data to finish registration.'
+communityFeed: 'Community Feed'
+registered: registered
+newCommentOn: 'New comment on:'
+noSearchResults: 'No search results found for your query.'
