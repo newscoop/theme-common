@@ -82,7 +82,6 @@ mailHello: null
 mailAutomaticalMessage: null
 mailPleaseConfirm: null
 mailOtherwise: null
-mailThanks: null
 emailConfirmationAt: null
 restorePasswordAt: null
 resetPassRestoreMessage: null
