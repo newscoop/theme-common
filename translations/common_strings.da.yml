@@ -1,38 +1,38 @@
-publishedOn: null
-in: null
+publishedOn: Udgivet
+in: i
 viewAllPosts: null
 by: af
-and: null
-commentS: null
+and: og
+commentS: kommentar(er)
 previous: forrige
 next: næste
-photo: null
-inactiveUser: null
-EditorialComments: null
-download: null
-home: null
-search: null
-keywords: null
+photo: 'foto:'
+inactiveUser: 'Inaktiv bruger'
+EditorialComments: 'redaktionelle kommentar'
+download: 'Download:'
+home: Hjem
+search: Søg
+keywords: nøgleord
 community: null
-Language: null
-archives: null
-mostRead: null
-mostCommented: null
-responsesTo: null
-commentNotAccepted: null
-commentSentApproval: null
-leaveReply: null
-submit: null
-comment: null
-enterCode: null
-commentsLockedDisabled: null
-notLoggedInMessage: null
-nameRequired: null
-emailRequired: null
-relatedArticles: null
-attachments: null
-infoOnLockedArticles: null
-writtenBy: null
+Language: Sprog
+archives: Arkiver
+mostRead: 'Mest læste'
+mostCommented: 'Mest kommenterede'
+responsesTo: 'Svar til'
+commentNotAccepted: 'Din kommentar blev ikke accepteret.'
+commentSentApproval: 'Din kommentar afventer godkendelse.'
+leaveReply: 'Skriv svar'
+submit: send
+comment: Kommenter
+enterCode: 'Indtast koden:'
+commentsLockedDisabled: 'Kommentarer er låst / slået fra for denne artikel.'
+notLoggedInMessage: 'Du skal være registreret for at kommentere på artikler eller sende beskeder til redaktionen. Log ind eller opret en gratis brugerkonto.'
+nameRequired: 'Navn (obligatorisk)'
+emailRequired: 'Email (vises ikke på siden) (obligatorisk)'
+relatedArticles: 'Relaterede artikler'
+attachments: Vedhæftninger
+infoOnLockedArticles: 'Artiklen er låst og kun tilgængelig for brugere der er <mark>registreret</mark> og <mark>logget ind</mark>.'
+writtenBy: 'Skrevet af:'
 articleRating: null
 year: år
 years: år
@@ -40,62 +40,62 @@ month: måned
 months: måneder
 day: dag
 days: dage
-hours: null
-minutes: null
-seconds: null
+hours: t
+minutes: min
+seconds: sek
 ago: siden
-editProfile: null
-Website: null
-LatestComments: null
-organisation: null
-viewProfile: null
-welcome: null
-logout: null
-login: null
-dashboard: null
-email: null
-password: null
-myprofile: null
-sorryNoFound: null
+editProfile: 'Rediger profil'
+Website: Hjemmeside
+LatestComments: 'Seneste kommentarer'
+organisation: Organisation
+viewProfile: 'Se profil'
+welcome: 'Velkommen,'
+logout: 'Log ud'
+login: 'Log ind'
+dashboard: Overblik
+email: Email
+password: Adgangskode
+myprofile: 'Min profil'
+sorryNoFound: 'Siden findes ikke.'
 Login: 'Log ind'
-loginFailed: null
-somethingWrong: null
-tryAgain: null
-forgotPassword: null
+loginFailed: 'Login mislykkedes'
+somethingWrong: 'Forkert e-mail eller adgangskode.'
+tryAgain: 'Prøv igen!'
+forgotPassword: 'Glemt adgangskode?'
 Register: Registrer
-resetPassword: null
-emailNotCorrect: null
-maybeYouRegistered: null
-withAnotherEmail: null
-requestNewPassword: null
-userAccount: null
-weSentEmail: null
-pleaseCheckInbox: null
-setNewPassword: null
-newPassword: null
-retypePassword: null
+resetPassword: 'Nulstil adgangskode'
+emailNotCorrect: 'Forkert e-mail'
+maybeYouRegistered: 'Måske registrede du dig'
+withAnotherEmail: 'med en anden e-mail?'
+requestNewPassword: 'Anmod om ny adgangskode'
+userAccount: Brugerkonto
+weSentEmail: 'Vi har sendt dig en e-mail.'
+pleaseCheckInbox: 'Du har fået en email med et link til at nulstille adgangskoden.'
+setNewPassword: 'Vælg ny adgangskode'
+newPassword: 'Ny adgangskode'
+retypePassword: 'Skriv adgangskode igen'
 couldNotChange: null
 enterNewPassword: null
 doesNotMatch: null
-savePassword: null
-mailHello: null
+savePassword: 'Gem adgangskode'
+mailHello: 'Hej,'
 mailAutomaticalMessage: null
 mailPleaseConfirm: null
 mailOtherwise: null
 emailConfirmationAt: null
 restorePasswordAt: null
 resetPassRestoreMessage: null
-thanks: null
+thanks: Tak!
 registerYourself: null
 confirmationSent: null
 followEmailSteps: null
-thanksForRegistering: null
+thanksForRegistering: 'Tak for din registrering.'
 registerConfirm: null
 pleaseFill: null
 register: Registrer
-hello: null
+hello: 'Hej,'
 fillYourData: null
 communityFeed: null
-registered: null
-newCommentOn: null
-noSearchResults: null
+registered: registreret
+newCommentOn: 'Ny kommentar:'
+noSearchResults: 'Ingen søgeresultater.'
