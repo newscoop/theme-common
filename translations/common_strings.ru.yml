@@ -1,101 +1,101 @@
-publishedOn: null
-in: null
+publishedOn: Опубликовано
+in: в
 viewAllPosts: null
-by: null
-and: null
-commentS: null
-previous: null
-next: null
-photo: null
-inactiveUser: null
-EditorialComments: null
-download: null
-home: null
-search: null
-keywords: null
-community: null
-Language: null
-archives: null
-mostRead: null
-mostCommented: null
-responsesTo: null
-commentNotAccepted: null
-commentSentApproval: null
-leaveReply: null
-submit: null
-comment: null
+by: от
+and: и
+commentS: комментарии
+previous: предыдущий
+next: следующий
+photo: 'фото:'
+inactiveUser: 'Неактивные пользователи'
+EditorialComments: 'Комментарии автора:'
+download: 'Загрузить:'
+home: Главная
+search: Поиск
+keywords: 'ключевые слова'
+community: Читатели
+Language: Язык
+archives: Архивы
+mostRead: 'Наиболее читаемое'
+mostCommented: 'Наиболее комментируемое'
+responsesTo: 'Ответ(ы) на'
+commentNotAccepted: 'Ваш комментарий не был принят'
+commentSentApproval: 'Ваш комментарий был выслан на подтверждение.'
+leaveReply: Ответить
+submit: отправить
+comment: Комментарий
 enterCode: null
-commentsLockedDisabled: null
-notLoggedInMessage: null
+commentsLockedDisabled: 'Комментирование заблокировано / отключено для данной статьи.'
+notLoggedInMessage: 'Вам следует зарегистрироваться для комментирования статей или отправки сообщений редакции. Пожалуйста, войдите в систему или бесплатно создайте учетную запись.'
 nameRequired: null
 emailRequired: null
 relatedArticles: null
 attachments: null
-infoOnLockedArticles: null
+infoOnLockedArticles: 'Эта запись закрыта. Только для регистрированных пользователей'
 writtenBy: null
 articleRating: null
-year: null
-years: null
-month: null
-months: null
-day: null
-days: null
+year: Год
+years: Лет
+month: Месяц
+months: Месяцев
+day: День
+days: Дней
 hours: null
 minutes: null
 seconds: null
-ago: null
+ago: назад
 editProfile: null
-Website: null
-LatestComments: null
-organisation: null
+Website: Вебсайт
+LatestComments: 'Последние комментарии'
+organisation: Organisation
 viewProfile: null
 welcome: null
-logout: null
-login: null
+logout: Выход
+login: Войти
 dashboard: null
 email: null
-password: null
+password: пароль
 myprofile: null
-sorryNoFound: null
-Login: null
-loginFailed: null
-somethingWrong: null
-tryAgain: null
-forgotPassword: null
-Register: null
-resetPassword: null
+sorryNoFound: 'Простите, но запрошенная страница не найдена.'
+Login: Войти
+loginFailed: 'Ошибка входа'
+somethingWrong: ' Неверен адрес или пароль'
+tryAgain: 'Пожалуйста, повторите попытку!'
+forgotPassword: 'Забыли свой пароль?'
+Register: Регистрация
+resetPassword: 'Сброс пароля'
 emailNotCorrect: null
-maybeYouRegistered: null
+maybeYouRegistered: 'Может вы зарегистрировались:'
 withAnotherEmail: null
-requestNewPassword: null
+requestNewPassword: 'запросить новый пароль'
 userAccount: null
 weSentEmail: null
-pleaseCheckInbox: null
+pleaseCheckInbox: 'Пожалуйса проверьте почту и пройдите по ссылке.'
 setNewPassword: null
 newPassword: null
 retypePassword: null
-couldNotChange: null
-enterNewPassword: null
-doesNotMatch: null
+couldNotChange: 'Ваш пароль не был изменен. Пожалуйста, следуя  инструкциям, повторите попытку.'
+enterNewPassword: 'Пожалуйста, введите новый пароль (минимум 6 символов)'
+doesNotMatch: ' Подтверждение пароля не совпадает с введенным  вами паролем.'
 savePassword: null
 mailHello: null
 mailAutomaticalMessage: null
 mailPleaseConfirm: null
-mailOtherwise: null
+mailOtherwise: 'Если это письмо пришло к вам по ошибке, то пожалуйста проигнорируйте его'
 emailConfirmationAt: null
 restorePasswordAt: null
 resetPassRestoreMessage: null
 thanks: null
 registerYourself: null
-confirmationSent: null
+confirmationSent: 'Подтверждение отправлено.'
 followEmailSteps: null
 thanksForRegistering: null
 registerConfirm: null
 pleaseFill: null
-register: null
+register: Регистрация
 hello: null
 fillYourData: null
 communityFeed: null
 registered: null
-newCommentOn: null
+newCommentOn: 'Новый комментарий в:'
 noSearchResults: null
